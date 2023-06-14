@@ -1,0 +1,20 @@
+.pageContainer {
+    height: 800px;
+    border-left: solid 200px lightgray;
+    border-right: solid 200px lightgray;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-end
+}
+.header {
+    height: 200px;
+    background-color: #646464;  
+}
+.footer {
+    height: 80px;
+    width: 100%;
+    background-color: black;
+}
+body {
+    margin: 0;
+}
